@@ -23,33 +23,12 @@ header {
 }
 
 /* Create two columns/boxes that floats next to each other */
-nav {
-  float: left;
-  width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
-  background: #ccc;
-  padding: 20px;
-}
+
 
 /* Style the list inside the menu */
 nav ul {
   list-style-type: none;
   padding: 0;
-}
-
-article {
-  float: left;
-  padding: 20px;
-  width: 70%;
-  background-color: #f1f1f1;
-  /*height: 300px;*/ /* only for demonstration, should be removed */
-}
-
-/* Clear floats after the columns */
-section::after {
-  content: "";
-  display: table;
-  clear: both;
 }
 
 /* Style the footer */
@@ -72,20 +51,6 @@ footer {
 <body>
 
 <h5>Lienken Technology Corporation 靈感科技股份有限公司</h5>
-<header>
-  <h5>Products</h5> 
-</header>
-
-<section>
-  <nav>
-    <ul>
-      <li><a href="#material">Shock-absorbing material</a></li>
-      <li><a href="#material2">Noise-reducing material</a></li>
-
-    </ul>
-  </nav>
-  
-  <article>
 <h5 id="material" >Shock-absorbing materials</h5>
      <p> <a href="https://www.youtube.com/watch?v=M88DidFeX38&t=3s">Shock absorbing materials video-2, Hitting a watermelon with a hammer doesn't break it.</a>
      <p><iframe width="280" height="158" src="https://www.youtube.com/embed/M88DidFeX38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -100,11 +65,9 @@ footer {
   
   <h5 id="material2">Noise-reducing materials</h5>
     
-    <h3 id="info"> Company Info.</h3>
+    <h5 id="about"> About</h5>
   <p>Lienken Tech is a company that combines technology and innovation. Our products include shock-absorbing materials and noise-reducing materials.
-  </article>
-</section>
-
+ 
 <footer>
   <p>Mr. Calvin Lin. E-mail: <a href="mailto:lienken168@gmail.com">lienken168@gmail.com</a> TEL:+886-2-89706339 FAX:+886-2-89706162 Mobile:+886-982111037
     <p>Address: 7F., No.521, Xuecheng Rd., Shulin Dist., New Taipei City 23854, Taiwan (R.O.C.)
@@ -113,3 +76,4 @@ footer {
 
 </body>
 </html>
+

@@ -7,7 +7,7 @@
 <meta name="keywords" content="lienken, lienkentech, shock absorbing material, power supply">  
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-* {
+{
   box-sizing: border-box;
 }
 
@@ -41,6 +41,37 @@ footer {
   text-align: center;
   /* color: white;*/ 
 }
+  .new_container {
+    display: flex;
+    align-items: top; /* vertically center */
+    max-width: 800px;
+    margin: 50px auto;
+    gap: 20px; /* space between image and text */
+  }
+
+  .new_container img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .new_text {
+    flex: 1; /* text takes remaining space */
+  }
+
+  .new_text h2 {
+    margin-top: 0;
+  }
+
+.new_video {
+    flex: 1;
+  }
+
+  .new_video iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;  /* keeps proper YouTube ratio */
+    border-radius: 10px;
+  }
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
 
@@ -51,23 +82,33 @@ footer {
 <h1 id="home">LIENKEN</h1>
 <div class="pcmenu">
   <a href="#home" class="active">Home</a>
-  <a href="#material">Products</a>
+  <a href="#material">Shock Absorbing Material</a>
+  <a href="#powersupply">Power Supply</a>
   <a href="#about">About</a>
   <a href="#contact">Contact</a>
 </div>
-  <hr>
-<h2 id="material" >Shock Absorbing Materials</h2>
-     <p><iframe width="560" height="315" src="https://www.youtube.com/embed/xaJU9zZEBfw?si=gNOhRqObUnPyW2gr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
- 
-    <p>LIENKEN smart nano materials provide very thin and light soft shock absorbers.</p>
-<p>These materials can apply to ballistic vest, ballistic helmet, Military impact protection gear, Military knee and elbow pads, EV battery protector, Seismic protection for buildings and high-rise structures, smartphone case, sport pads, medical, defense, transportation safety, transportation, computers, automotives, insoles, helmet, bicycle seat, acoustic and car electronics.
+<div class="new_container">
+  <div class="new_video">
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/xaJU9zZEBfw?si=gNOhRqObUnPyW2gr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <div class="new_text">
+  <h2 id="material" >Shock Absorbing Materials</h2> 
+    <p>Applications: ballistic vest, ballistic helmet, Military impact protection gear, Military knee and elbow pads, EV battery protector, Seismic protection for buildings and high-rise structures, smartphone case, sport pads, medical, defense, transportation safety, transportation, computers, automotives, insoles, helmet, bicycle seat, acoustic and car electronics.
 .</p>
 <p>For inquiries and questions, please email: <a href="mailto:sales@lienken.com">sales@lienken.com</a>
-  
-  <h2 id="material2">Smart Power Supply</h2>
-  <p><img src="LIENKEN_POWER_SUPPLY.jpg" alt="Power supply">
-    <p>We have developed the world’s first smart power supply, and it is patented. We are a technology company with a strong R&D and design team. We accept power supply specification design and production.
+ </div>
+</div>
 
+<div class="new_container">
+  <img src="LIENKEN_POWER_SUPPLY.jpg" alt="LIENKEN power supply">
+  <div class="new_text">
+  <h2 id="powersupply">Smart Power Supply</h2>
+    <p>
+      We have developed the world’s first smart power supply, and it is patented. We are a technology company with a strong R&D and design team. We accept power supply specification design and production.
+    </p>
+  </div>
+</div>
+  
   <h2 id="about"> About</h2>
   <p>LIENKEN TECH CORP. is a company that combines technology and innovation. Our products include shock absorbing materials and smart power supply.
 

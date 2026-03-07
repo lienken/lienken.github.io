@@ -9,7 +9,7 @@
     media="(orientation: portrait)" />
   <img src="/ballisticvest.png" alt="LIENKEN shock absorbing Material Application: Ballistic Vest" />
 </picture>
-2. [Smart Power Supply](https://www.lienken.com/power-supply)
+2. [Smart Power Supply](https://www.lienken.com/power-supply/)
 Real-time Wattage Display Power Supply:
 We have developed the world’s first smart power supply, and it is patented. We are a technology company with a strong R&D and design team. We accept power supply specification design and production for OEM & ODM.<br>
    <picture>

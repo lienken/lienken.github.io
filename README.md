@@ -7,10 +7,9 @@
 Real-time Wattage Display Power Supply:
 We have developed the world’s first smart power supply, and it is patented. We are a technology company with a strong R&D and design team. We accept power supply specification design and production for OEM & ODM.
 
-Contact:
-E-mail: sales@lienken.com , lienken168@gmail.com
+## Contact:
+### E-mail: sales@lienken.com , lienken168@gmail.com
 TEL: +886-2-89706339
 Mobile: +886-982111037
 Address: 7F., No.521, Xuecheng Rd., Shulin Dist., New Taipei City 23854, Taiwan (R.O.C.)
-
 Copyright © 2026 LIENKEN TECH CORP.

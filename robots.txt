@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lienken.github.io/sitemap.xml

@@ -1,4 +1,4 @@
-# [LIENKEN](https://www.lienken.com/) 
+# [LIENKEN](https://www.lienken.com/)
 ## [Shock Absorbing Material](https://www.lienken.com/shock-absorbing-material) & [Smart Power Supply](https://www.lienken.com/power-supply)
 [LIENKEN TECH CORP.](https://www.lienken.com/) , established in 2008, is a company that combines technology and innovation. Our products include shock absorbing materials and smart power supply.
 1. [Shock Absorbing Material Applications](https://www.lienken.com/shock-absorbing-material):
@@ -19,7 +19,7 @@ We have developed the world’s first smart power supply, and it is patented. We
   <img src="/LIENKEN_POWER_SUPPLY.jpg" alt="LIENKEN Power Supply with real-time wattage display" />
 </picture>
 <br>Contact:
-<br>E-mail: sales@lienken.com , lienken168@gmail.com
+<br>E-mail: <a href="mailto:sales@lienken.com">sales@lienken.com</a> , <a href="mailto:lienken168@gmail.com">lienken168@gmail.com</a>
 <br>TEL: +886-2-89706339 | Mobile: +886-982111037
 <p>Address: 7F., No.521, Xuecheng Rd., Shulin Dist., New Taipei City 23854, Taiwan (R.O.C.)</p>
 <p>Copyright © 2026 LIENKEN TECH CORP.</p>

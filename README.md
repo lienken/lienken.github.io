@@ -9,7 +9,6 @@ We have developed the world’s first smart power supply, and it is patented. We
 
 ## Contact:
 ### E-mail: sales@lienken.com , lienken168@gmail.com
-TEL: +886-2-89706339
-Mobile: +886-982111037
-Address: 7F., No.521, Xuecheng Rd., Shulin Dist., New Taipei City 23854, Taiwan (R.O.C.)
-Copyright © 2026 LIENKEN TECH CORP.
+TEL: +886-2-89706339 | Mobile: +886-982111037
+<p>Address: 7F., No.521, Xuecheng Rd., Shulin Dist., New Taipei City 23854, Taiwan (R.O.C.)</p>
+<p>Copyright © 2026 LIENKEN TECH CORP.</p>

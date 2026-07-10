@@ -7,7 +7,7 @@
   <source
     srcset="/ballisticvest.png"
     media="(orientation: portrait)" />
-  <img src="/ballisticvest.png" alt="LIENKEN shock absorbing Material Application: Ballistic Vest" />
+  <img src="/ballisticvesthelmet.png" alt="LIENKEN shock absorbing Material Application: Ballistic Vest, Ballistic Helmet" />
 </picture>
 2. [Smart Power Supply](https://www.lienken.com/power-supply/)
 Real-time Wattage Display Power Supply:

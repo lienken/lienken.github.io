@@ -33,7 +33,27 @@ header {
 /* Create two columns/boxes that floats next to each other */
 
 /* Style the list inside the menu */
+  .new_container {
+    display: flex;
+    align-items: top; /* vertically center */
+    max-width: 800px;
+    margin: 50px auto;
+    gap: 20px; /* space between image and text */
+  }
 
+  .new_container img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .new_text {
+    flex: 1; /* text takes remaining space */
+  }
+
+  .new_text h1 {
+    margin-top: 0;
+  }
 /* Style the footer */
 footer {
   background-color: yellow; /*#555; #777;*/

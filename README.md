@@ -2,7 +2,7 @@
 ## [Shock Absorbing Material](https://www.lienken.com/shock-absorbing-material) & [Smart Power Supply](https://www.lienken.com/power-supply)
 [LIENKEN TECH CORP.](https://www.lienken.com/) , established in 2008, is a company that combines technology and innovation. Our products include shock absorbing materials and smart power supply.
 1. [Shock Absorbing Material Applications](https://www.lienken.com/shock-absorbing-material):
-   Defense, Ballistic Vest, Ballistic Helmet, Military impact protection gear, Military knee and elbow pads, EV battery protector, Seismic protection for buildings and high-rise structures, smartphone case, sport pads, medical, defense, transportation safety, transportation, computers, automotives, insoles, helmet, bicycle seat, acoustic and car electronics.<br>
+   Engineered protection for Military Ballistic Vest, Military Ballistic Helmet, Military impact protection gear, Military knee and elbow pads, EV battery protector, Seismic protection for buildings and high-rise structures, smartphone case, sport pads, medical, defense, transportation safety, transportation, computers, automotives, insoles, helmet, bicycle seat, acoustic and car electronics.<br>
    <picture>
   <source
     srcset="/ballisticvest.png"
